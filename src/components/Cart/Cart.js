@@ -1,4 +1,5 @@
 import React from 'react';
+import List from '../List/List';
 import './Cart.css'
 
 const Cart = (props) => {
@@ -13,8 +14,12 @@ const Cart = (props) => {
         <div className="cart">
             <h2>Books Added: {cart.length}</h2>
             <h4>Total Cost: {total.toFixed(2)}</h4>
-
-
+            {
+                cart.map(bookList => <List
+                    key={cart.id}
+                    bookList={bookList}
+                ></List>)
+            }
         </div>
     );
 };

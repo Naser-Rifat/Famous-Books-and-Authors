@@ -9,6 +9,7 @@ const Authors = () => {
     const [Authors, setAuthors] = useState([]);
     const [cart, setCart] = useState([]);
 
+
     useEffect(() => {
         fetch('./data.json')
             .then(res => res.json())
@@ -35,6 +36,8 @@ const Authors = () => {
             <div>
                 <Cart cart={cart}></Cart>
             </div>
+
+
 
 
         </div >
