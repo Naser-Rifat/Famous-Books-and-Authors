@@ -1,0 +1,92 @@
+[
+    {
+        "id": 11,
+        "img": "https://allbanglanewspaper.net/upload/2019/07/46a8cf360b1e8c73-humayun-ahmed.jpg",
+        "name": "Humayun Ahmed",
+        "Birth_Date": "13 November 1948",
+        "occupation": "Writer, film director, academic, dramatist",
+        "Famous_Book": "Nondito Noroke",
+        "price": 176
+    },
+    {
+        "id": 12,
+        "img": "https://images.prothomalo.com/prothomalo-english%2Fimport%2Fmedia%2F2014%2F05%2F29%2F5387333c00b6c-Nazrul-Islam.jpg?auto=format&fit=fill&bg=000000&q=35&w=1200",
+        "name": "Kazi Nazrul Islam",
+        "Birth_Date": "25 May 1899",
+        "occupation": "Poet, short-story, writer, film actor",
+        "Famous_Book": "Mrityukshuda",
+        "price": 141
+    },
+    {
+        "id": 13,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/7/76/Begum_Rokeya.jpg",
+        "name": "Begum Rokeya",
+        "Birth_Date": "9 December 1880",
+        "occupation": "Writer, educator, activist",
+        "Famous_Book": "Matichur",
+        "price": 213
+    },
+    {
+        "id": 14,
+        "img": "https://en.banglapedia.org/images/2/28/RaihanZahir.jpg",
+        "name": "Zahir Raihan",
+        "Birth_Date": "19 August 1935",
+        "occupation": "Film maker, novelist, write",
+        "Famous_Book": "Hajar Bochor Dhore",
+        "price": 90
+    },
+    {
+        "id": 15,
+        "img": "https://upload.wikimedia.org/wikipedia/en/1/1c/Sufia_Kamal.jpg",
+        "name": "Begum Sufia Kamal",
+        "Birth_Date": "20 June 1911",
+        "occupation": "poet, writer",
+        "Famous_Book": "Ekattorer Dairy",
+        "price": 255
+    },
+    {
+        "id": 16,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Jahanara_Imam_1993.jpg",
+        "name": "Jahanara Imam",
+        "Birth_Date": "3 May 1929",
+        "occupation": "writer and political activist",
+        "Famous_Book": "Ekattorer Dinguli",
+        "price": 340
+    },
+    {
+        "id": 17,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Al_Mahmud.jpg",
+        "name": "Al Mahmud",
+        "Birth_Date": "11 July 1936",
+        "occupation": "Poet, journalist",
+        "Famous_Book": "Lok Lokantor",
+        "price": 114
+    },
+    {
+        "id": 18,
+        "img": "https://upload.wikimedia.org/wikipedia/en/8/8f/Shahidullah_Kaiser.jpg",
+        "name": "Shahidullah Kaiser",
+        "Birth_Date": "16 February 1927",
+        "occupation": "poet, writerWriter, novelist, journalist, editor",
+        "Famous_Book": "Songshoptok",
+        "price": 213
+    },
+    {
+        "id": 19,
+        "img": "https://upload.wikimedia.org/wikipedia/en/d/d0/ShawkatOsmanPic.jpg",
+        "name": "Shawkat Osman",
+        "Birth_Date": "2 January 1917",
+        "occupation": "Novelist and short story writer",
+        "Famous_Book": "Janani ",
+        "price": 6298
+    },
+    {
+        "id": 20,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Mir_mosharraf_hossain.jpg/220px-Mir_mosharraf_hossain.jpg",
+        "name": "Mir Mosharraf Hossain",
+        "Birth_Date": "13 November 1847",
+        "occupation": " writer, novelist,",
+        "Famous_Book": "Bishad Shindhu",
+        "price": 298
+    }
+]
